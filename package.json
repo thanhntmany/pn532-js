@@ -1,0 +1,23 @@
+{
+  "name": "pn532",
+  "version": "1.0.0",
+  "description": "Library to handle the PN532 RFID Reader",
+  "keywords": [
+    "pn532"
+  ],
+  "homepage": "https://github.com/thanhntmany/pn532-js#readme",
+  "bugs": {
+    "url": "https://github.com/thanhntmany/pn532-js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhntmany/pn532-js.git"
+  },
+  "license": "ISC",
+  "author": "Thanh Nguyen Thuan <thanhntmany@gmail.com>",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
