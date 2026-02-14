@@ -16,8 +16,11 @@
   "license": "ISC",
   "author": "Thanh Nguyen Thuan <thanhntmany@gmail.com>",
   "type": "module",
-  "main": "index.js",
+  "main": "pn532.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "serialport": "^13.0.0"
   }
 }
